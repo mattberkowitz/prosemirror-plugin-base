@@ -42,7 +42,7 @@ The following references should be updated to better represent your plugin:
 ### README.md
 
 - Delete everything above the template line
-- Update all references in brackets
+- Update all references in `[brackets]`
 
 **===== Below here is a Plugin README.md template, change anything in `[brackets]` =====**
 
