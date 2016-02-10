@@ -18,16 +18,13 @@ The following references should be updated to better represent your plugin:
 ### src/plugin.js
 
 - Change `Plugin` class name to be representative of your plugin
-
 - Add your options to `get defaultOptions()`
 
 
 ### src/option.js
 
 - Change `plugin` name in defineOption first parameter
-
 - Change where `plugin` is stored in `pm.mod`
-
 - Change `Plugin` class to match the class name in `src/plugin.js`
 
 
@@ -42,7 +39,10 @@ The following references should be updated to better represent your plugin:
 - Change `plugin` option to be the same as the string passed to defineOption in `src/option.js`
 
 
+### README.md
 
+- Delete everything above the template line
+- Update all references in brackets
 
 **===== Below here is a Plugin README.md template, change anything in `[brackets]` =====**
 
