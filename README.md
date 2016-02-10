@@ -44,8 +44,7 @@ The following references should be updated to better represent your plugin:
 
 
 
-
-# ========= Below here is a Plugin README.md template, change anything in [brackets] =========
+**===== Below here is a Plugin README.md template, change anything in `[brackets]` =====**
 
 
 
